@@ -1,1 +1,1 @@
-This project was my intro to HTML
+This project was my intro to HTML in my Computer Applications class
